@@ -2,9 +2,11 @@
 
 # Summary
 
-This python script reboots the BUFFALO Internet Router.
+This python script reboots internet router for consumer.
+Used for regular reboots.
 
-Target model : WHR-1166DHP
+Target models : 
+    BUFFALO WHR-1166DHP
 
 ## Require python library
 
