@@ -56,7 +56,7 @@ try:
     res2 = requests.post(HOST_URL + '?screen2',data=payload,auth=BASIC_AUTH)
     res2.raise_for_status()
 
-    logging.info('compleate')
+    logging.info('complete')
 
 except Exception as exc:
     logging.error('error:{}'.format(exc))
